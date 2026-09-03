@@ -12,4 +12,5 @@ Linux and GIT:
 8. git branch(GIT) - lists your branches
 9. git branch [branch-name](GIT) - creates new branch
 10. git checkout(GIT) - switch to another branch
-11. git status(GIT) - show modified files in working directory 
+11. git status(GIT) - show modified files in working directory
+12. git add [file](GIT) - add a file to your next commit 
