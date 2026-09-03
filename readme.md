@@ -9,3 +9,4 @@ Linux and GIT:
 5. cat(Linux) - display file contents in terminal
 6. mv(Linux) - move or rename files
 7. rm(Linux) - delete files or directories
+8. git branch(GIT) - lists your branches
