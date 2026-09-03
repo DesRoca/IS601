@@ -8,3 +8,4 @@ Linux and GIT:
 4. pwd(Linux) - get path of present directory
 5. cat(Linux) - display file contents in terminal
 6. mv(Linux) - move or rename files
+7. rm(Linux) - delete files or directories
