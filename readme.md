@@ -14,3 +14,4 @@ Linux and GIT:
 10. git checkout(GIT) - switch to another branch
 11. git status(GIT) - show modified files in working directory
 12. git add [file](GIT) - add a file to your next commit
+13. git commit -m "[message]"(GIT) - commit your staged content as a new commit
