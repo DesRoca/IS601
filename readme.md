@@ -10,3 +10,4 @@ Linux and GIT:
 6. mv(Linux) - move or rename files
 7. rm(Linux) - delete files or directories
 8. git branch(GIT) - lists your branches
+9. git branch [branch-name](GIT) - creates new branch
