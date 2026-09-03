@@ -11,3 +11,4 @@ Linux and GIT:
 7. rm(Linux) - delete files or directories
 8. git branch(GIT) - lists your branches
 9. git branch [branch-name](GIT) - creates new branch
+10. git checkout(GIT) - switch to another branch
