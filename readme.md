@@ -5,3 +5,4 @@ Linux and GIT:
 1. ls(Linux) - list contents of directory
 2. cd(Linux) - change directory
 3. mkdir(Linux) - create directories
+4. pwd(Linux) - get path of present directory
