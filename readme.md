@@ -7,3 +7,4 @@ Linux and GIT:
 3. mkdir(Linux) - create directories
 4. pwd(Linux) - get path of present directory
 5. cat(Linux) - display file contents in terminal
+6. mv(Linux) - move or rename files
