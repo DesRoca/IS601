@@ -16,3 +16,4 @@ Linux and GIT:
 12. git add [file](GIT) - add a file to your next commit
 13. git commit -m "[message]"(GIT) - commit your staged content as a new commit
 14. git push [alias] [branch](GIT) - transmit local branch commits to the remote repository branch
+15. git merge [branch](GIT) - merge the specified branch's history into the current branch
